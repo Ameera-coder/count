@@ -1,0 +1,9 @@
+h1{
+    color: rgb(195, 179, 93);
+    background-image: -webkit-image-set();
+    font-size: 500%;
+    font-style: oblique;
+    text-align: center;
+    align-items: center;
+    padding: 450px;
+}
